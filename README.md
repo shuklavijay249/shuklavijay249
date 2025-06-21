@@ -17,9 +17,10 @@
 ### 🔧 Tech Stack & Expertise
 
 - **Languages**: Kotlin, Java, Dart  
-- **Frameworks & Architectures**: Jetpack Libraries, MVVM, GetX, Android, Flutter  
+- **Frameworks & Architectures**: Jetpack Libraries, Coroutines, Flow, Compose, MVVM, GetX, Android, Flutter  
 - **Tooling**: Android Studio, Firebase, Git, Jira, Crashlytics, GTM  
-- **Analytics**: MixPanel, CleverTap, Firebase  
+- **Analytics**: MixPanel, CleverTap, Firebase
+- **Security**: SSL Pinning, Encryption, Tink, Proguard, Keystore  
 - **OS Experience**: macOS, Windows, Linux, Ubuntu  
 - **Integrations**:  
   - eKYC, Video KYC, Soft Pull  

@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-shukla249/)
 [![Email](https://img.shields.io/badge/Email-shuklavijay249%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:shuklavijay249@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/shuklavijay249?label=GitHub&style=flat&logo=github)](https://github.com/shuklavijay249)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=flat&logo=google&logoColor=white)](https://g.dev/vijayshukla)
+
 
 ---
 
